@@ -1,4 +1,4 @@
 # dees 
-n=5
-string="Hello World "
-print(string * n)  #Hello World Hello World Hello World Hello World Hello World
+def get_vowels(String):
+    return [each for each in String if each in "aeiou"]
+get_vowels("animal") # [a, i, a]
