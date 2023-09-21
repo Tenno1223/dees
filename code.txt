@@ -1,5 +1,3 @@
 # dees
 Hello its me Mario
-n=5
-string="Hello World "
-print(string * n)  #Hello World Hello World Hello World Hello World Hello World
+https://github.com/Tenno1223/dees repository link
